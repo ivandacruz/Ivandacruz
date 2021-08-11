@@ -47,8 +47,8 @@
   
   <p align="left">
     <li align="center">
-      <!--<a class="url" href="https://www.linkedin.com/in/ivan-da-cruz-78729/" img> -->
-        <a href="https://www.linkedin.com/in/ivan-da-cruz-78729/" target="_blank">Linkedin</a>
+      <!--<a class="url" href="https://www.linkedin.com/in/ivan-da-cruz-787290134/" img> -->
+        <a href="https://www.linkedin.com/in/ivan-da-cruz-787290134/" target="_blank">Linkedin</a>
     </li>
     <li align="center">
       <!--<a class="url" href="https://api.whatsapp.com/send?phone=5511953309098/" img> -->
