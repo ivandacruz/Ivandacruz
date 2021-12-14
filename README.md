@@ -10,9 +10,9 @@
 
 🖥️ 2021 Goals: create a new project and find a new job.
 
-<h1 align="center">Welcome to my profile 👋</h1>
+<h1 align="center"> Welcome to my profile 👋 </h1>
 <h3 align="center">Full Stack Developer Jr</h3>
- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world! I'm Ivan da Cruz!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+ <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> ** Hello world! I'm Ivan da Cruz! ** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
   <h3 align="center"> 🚀 Reference </h3>
   <div align="center">
